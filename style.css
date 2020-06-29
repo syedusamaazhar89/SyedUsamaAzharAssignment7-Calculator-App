@@ -24,6 +24,7 @@ background-color: white;
     text-align: right;
     font-size: 40px;
     outline: none;
+    margin-bottom: 5px;
 }
 .result:focus{
     background-color: white;
